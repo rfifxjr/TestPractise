@@ -1,0 +1,41 @@
+
+2023-12-26 17:58:33,641 - INFO - Create User - Request: {'name': 'Robert Acosta', 'email': 'moorejohn@example.net', 'address': '7891 Kelly Grove Suite 253\nNorth Bryanside, NE 53350'}, Response: {}
+2023-12-26 17:58:33,737 - INFO - Create User - Request: {'name': 'Lindsey Schwartz', 'email': 'sedwards@example.net', 'address': '978 Smith Valleys Suite 071\nSkinnershire, MT 20304'}, Response: {}
+2023-12-26 17:58:33,752 - INFO - Create User - Request: {'name': 'Chris Reed', 'email': 'vmitchell@example.net', 'address': '670 Jones Fort\nNew Brian, TX 21829'}, Response: {}
+2023-12-26 17:58:33,768 - INFO - Create User - Request: {'name': 'Stephanie Stein', 'email': 'thompsonelizabeth@example.net', 'address': '786 Carroll Inlet Suite 036\nLake Jeremychester, MP 03116'}, Response: {}
+2023-12-26 17:58:33,801 - INFO - Create Product - Request: {'name': 'her', 'price': 81, 'category_id': 39}, Response: {}
+2023-12-26 17:58:33,816 - INFO - Create Product - Request: {'name': 'thank', 'price': 68, 'category_id': 68}, Response: {}
+2023-12-26 17:58:33,826 - INFO - Create Product - Request: {'name': 'gas', 'price': 39, 'category_id': 9}, Response: {}
+2023-12-26 17:58:33,849 - INFO - Create Product - Request: {'name': 'toward', 'price': 34, 'category_id': 61}, Response: {}
+2023-12-26 17:58:33,859 - INFO - Create Order - Request: {'product_id': 17, 'quantity': 54, 'customer_name': 'Jenny Fischer'}, Response: {}
+2023-12-26 17:58:33,880 - INFO - Create Order - Request: {'product_id': 75, 'quantity': 95, 'customer_name': 'Jason Osborn'}, Response: {}
+2023-12-26 17:58:33,896 - INFO - Create Order - Request: {'product_id': 10, 'quantity': 3, 'customer_name': 'Stephanie Randolph'}, Response: {}
+2023-12-26 17:58:33,907 - INFO - Create Order - Request: {'product_id': 35, 'quantity': 87, 'customer_name': 'Lori Williams'}, Response: {}
+2023-12-26 17:58:33,928 - INFO - Create Category - Request: {'name': 'bill'}, Response: {}
+2023-12-26 17:58:33,945 - INFO - Create Category - Request: {'name': 'significant'}, Response: {}
+2023-12-26 17:58:33,960 - INFO - Create Category - Request: {'name': 'give'}, Response: {}
+2023-12-26 17:58:33,976 - INFO - Create Category - Request: {'name': 'weight'}, Response: {}
+2023-12-26 17:58:33,986 - INFO - Create Review - Request: {'product_id': 93, 'user_id': 80, 'text': 'Response reason throughout guy. Fund usually size point animal her four. Can body generation.'}, Response: {}
+2023-12-26 17:58:34,008 - INFO - Create Review - Request: {'product_id': 22, 'user_id': 71, 'text': 'Cause coach sometimes executive. Or size hold near.\nLife administration high. Game take whole gas might join.\nA hot toward especially guy civil. Individual sea money service both agency per.'}, Response: {}
+2023-12-26 17:58:34,024 - INFO - Create Review - Request: {'product_id': 53, 'user_id': 52, 'text': 'Movement soldier recent. North history cost point. Religious boy exist action.\nArrive degree money health. Say clear whom turn discuss almost. Finish hit gun challenge table assume.'}, Response: {}
+2023-12-26 17:58:34,040 - INFO - Create Review - Request: {'product_id': 27, 'user_id': 22, 'text': 'News of decade health read happy. Eye week strategy surface reflect. Customer understand determine even give Mr health through.'}, Response: {}
+2023-12-26 18:01:57,729 - INFO - Create User - Request: {'name': 'John Beltran', 'email': 'michael21@example.org', 'address': '15311 Marcus Squares\nJamiefurt, OK 80936'}, Response: {}
+2023-12-26 18:01:57,822 - INFO - Create User - Request: {'name': 'Sarah May', 'email': 'robertblack@example.com', 'address': '353 Thompson View Suite 414\nEast Christopherberg, MP 59734'}, Response: {}
+2023-12-26 18:01:57,837 - INFO - Create User - Request: {'name': 'Brian Gonzalez', 'email': 'tammystevens@example.com', 'address': '1497 Jessica Unions Suite 417\nSouth Diana, MD 53415'}, Response: {}
+2023-12-26 18:01:57,853 - INFO - Create User - Request: {'name': 'Zoe Meyer', 'email': 'melissa58@example.com', 'address': '0975 Hunter Club Suite 449\nGarzatown, MN 44778'}, Response: {}
+2023-12-26 18:01:57,869 - INFO - Create Product - Request: {'name': 'tax', 'price': 77, 'category_id': 26}, Response: {}
+2023-12-26 18:01:57,885 - INFO - Create Product - Request: {'name': 'purpose', 'price': 34, 'category_id': 8}, Response: {}
+2023-12-26 18:01:57,901 - INFO - Create Product - Request: {'name': 'heart', 'price': 26, 'category_id': 44}, Response: {}
+2023-12-26 18:01:57,910 - INFO - Create Product - Request: {'name': 'onto', 'price': 61, 'category_id': 31}, Response: {}
+2023-12-26 18:01:57,934 - INFO - Create Order - Request: {'product_id': 56, 'quantity': 14, 'customer_name': 'Crystal Hardy'}, Response: {}
+2023-12-26 18:01:57,949 - INFO - Create Order - Request: {'product_id': 44, 'quantity': 95, 'customer_name': 'Karen Maxwell'}, Response: {}
+2023-12-26 18:01:57,965 - INFO - Create Order - Request: {'product_id': 89, 'quantity': 72, 'customer_name': 'Robert Lawson'}, Response: {}
+2023-12-26 18:01:57,981 - INFO - Create Order - Request: {'product_id': 6, 'quantity': 71, 'customer_name': 'Mckenzie Alexander'}, Response: {}
+2023-12-26 18:01:57,997 - INFO - Create Category - Request: {'name': 'feel'}, Response: {}
+2023-12-26 18:01:58,013 - INFO - Create Category - Request: {'name': 'scene'}, Response: {}
+2023-12-26 18:01:58,029 - INFO - Create Category - Request: {'name': 'message'}, Response: {}
+2023-12-26 18:01:58,045 - INFO - Create Category - Request: {'name': 'material'}, Response: {}
+2023-12-26 18:01:58,061 - INFO - Create Review - Request: {'product_id': 37, 'user_id': 25, 'text': 'Affect television at hair beautiful entire. Source during large toward force.\nCharge out cultural program generation laugh radio. Interesting help home.\nWest charge ground.'}, Response: {}
+2023-12-26 18:01:58,077 - INFO - Create Review - Request: {'product_id': 80, 'user_id': 66, 'text': 'Election should town morning. Herself pay best also into girl degree our.\nMagazine outside gas season. Important single section than head can back more.'}, Response: {}
+2023-12-26 18:01:58,093 - INFO - Create Review - Request: {'product_id': 62, 'user_id': 34, 'text': 'White town middle various involve teach home. Small step product side beautiful Mr. Be close production mouth take.\nData season recognize. Result the total man seem traditional four.'}, Response: {}
+2023-12-26 18:01:58,109 - INFO - Create Review - Request: {'product_id': 58, 'user_id': 30, 'text': 'Wife teacher animal success rest than whose age. Garden treat film dream research door. Again natural base.\nLetter design picture call ago guy society. Or audience actually difficult exactly sport.'}, Response: {}
